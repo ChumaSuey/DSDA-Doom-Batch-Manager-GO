@@ -7,12 +7,13 @@ DSDA Doom Batch Manager is a utility tool designed to help manage, configure, an
 
 ## Screenshots
 
-*(Upload and add your pictures below)*
+<img width="823" height="946" alt="image" src="https://github.com/user-attachments/assets/43aec72e-d592-458d-8ff0-d051f65bf485" />
 
-<!-- Replace the placeholders with your actual screenshot paths/URLs -->
-![Main Interface](placeholder_image_1.png)
+<img width="823" height="946" alt="image" src="https://github.com/user-attachments/assets/86663fe8-5b93-460a-8811-1d5b47005c86" />
 
-![Settings / Configuration](placeholder_image_2.png)
+<img width="823" height="946" alt="image" src="https://github.com/user-attachments/assets/193eeb9e-ca77-4890-af3b-1df66923c8cc" />
+
+
 
 ## Features
 - Automated handling of `dsda-doom.exe` paths.
