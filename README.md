@@ -16,9 +16,9 @@ DSDA Doom Batch Manager is a utility tool designed to help manage, configure, an
 
 
 ## Features
-- Automated handling of `dsda-doom.exe` paths.
-- Quick selection and processing of various IWADs (DOOM, DOOM2, PLUTONIA, TNT, etc.).
-- Custom directory mapping for demos and outputs.
+- **Record Demo Tab:** Easily configure parameters like Skill level, Warp, Complevel, and DeHackEd (.deh) files to generate and run `.bat` scripts for recording.
+- **Play Demo Tab:** Quickly select existing demos to play, with an option to auto-generate a text file (`-export_text_file`) summarizing the run.
+- **Settings Tab:** Configure global defaults including the `dsda-doom.exe` path, auto-scan your folder for known IWADs, and set default working directories.
 
 ## Status
 This project is currently inactive and not actively maintained. It serves as a showcase of Go programming concepts.
